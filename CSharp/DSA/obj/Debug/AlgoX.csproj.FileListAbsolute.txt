@@ -1,0 +1,7 @@
+D:\Repositories\AlgoX\AlgoX\bin\Debug\AlgoX.exe.config
+D:\Repositories\AlgoX\AlgoX\bin\Debug\AlgoX.exe
+D:\Repositories\AlgoX\AlgoX\bin\Debug\AlgoX.pdb
+D:\Repositories\AlgoX\AlgoX\obj\Debug\AlgoX.csproj.AssemblyReference.cache
+D:\Repositories\AlgoX\AlgoX\obj\Debug\AlgoX.csproj.CoreCompileInputs.cache
+D:\Repositories\AlgoX\AlgoX\obj\Debug\AlgoX.exe
+D:\Repositories\AlgoX\AlgoX\obj\Debug\AlgoX.pdb

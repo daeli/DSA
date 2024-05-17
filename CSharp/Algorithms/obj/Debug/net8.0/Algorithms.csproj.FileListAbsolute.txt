@@ -1,0 +1,12 @@
+D:\Repositories\DSA\CSharp\Algorithms\bin\Debug\net8.0\Algorithms.deps.json
+D:\Repositories\DSA\CSharp\Algorithms\bin\Debug\net8.0\Algorithms.dll
+D:\Repositories\DSA\CSharp\Algorithms\bin\Debug\net8.0\Algorithms.pdb
+D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfoInputs.cache
+D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfo.cs
+D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\Algorithms.csproj.CoreCompileInputs.cache
+D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\Algorithms.sourcelink.json
+D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\Algorithms.dll
+D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\refint\Algorithms.dll
+D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\Algorithms.pdb
+D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\ref\Algorithms.dll

@@ -1,0 +1,12 @@
+D:\Repositories\DSA\CSharp\CodingProblems\bin\Debug\net8.0\CodingProblems.deps.json
+D:\Repositories\DSA\CSharp\CodingProblems\bin\Debug\net8.0\CodingProblems.dll
+D:\Repositories\DSA\CSharp\CodingProblems\bin\Debug\net8.0\CodingProblems.pdb
+D:\Repositories\DSA\CSharp\CodingProblems\obj\Debug\net8.0\CodingProblems.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\DSA\CSharp\CodingProblems\obj\Debug\net8.0\CodingProblems.AssemblyInfoInputs.cache
+D:\Repositories\DSA\CSharp\CodingProblems\obj\Debug\net8.0\CodingProblems.AssemblyInfo.cs
+D:\Repositories\DSA\CSharp\CodingProblems\obj\Debug\net8.0\CodingProblems.csproj.CoreCompileInputs.cache
+D:\Repositories\DSA\CSharp\CodingProblems\obj\Debug\net8.0\CodingProblems.sourcelink.json
+D:\Repositories\DSA\CSharp\CodingProblems\obj\Debug\net8.0\CodingProblems.dll
+D:\Repositories\DSA\CSharp\CodingProblems\obj\Debug\net8.0\refint\CodingProblems.dll
+D:\Repositories\DSA\CSharp\CodingProblems\obj\Debug\net8.0\CodingProblems.pdb
+D:\Repositories\DSA\CSharp\CodingProblems\obj\Debug\net8.0\ref\CodingProblems.dll
