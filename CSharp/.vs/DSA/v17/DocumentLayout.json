@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Repositories\\DSA\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F529DA1-315A-4965-8609-D8E18972C002}|CodingProblems\\DSA.CodingProblems.csproj|d:\\repositories\\dsa\\csharp\\codingproblems\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F529DA1-315A-4965-8609-D8E18972C002}|CodingProblems\\DSA.CodingProblems.csproj|solutionrelative:codingproblems\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6557D557-7910-4059-B734-E982D592D037}|TestDSA\\TestDSA.csproj|d:\\repositories\\dsa\\csharp\\testdsa\\testalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6557D557-7910-4059-B734-E982D592D037}|TestDSA\\TestDSA.csproj|solutionrelative:testdsa\\testalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|d:\\repositories\\dsa\\csharp\\algorithms\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|solutionrelative:algorithms\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F529DA1-315A-4965-8609-D8E18972C002}|CodingProblems\\DSA.CodingProblems.csproj|d:\\repositories\\dsa\\csharp\\codingproblems\\palindromenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F529DA1-315A-4965-8609-D8E18972C002}|CodingProblems\\DSA.CodingProblems.csproj|solutionrelative:codingproblems\\palindromenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6557D557-7910-4059-B734-E982D592D037}|TestDSA\\TestDSA.csproj|d:\\repositories\\dsa\\csharp\\testdsa\\testcodingproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,52 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TwoSum.cs",
-              "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\CodingProblems\\TwoSum.cs",
-              "RelativeDocumentMoniker": "CodingProblems\\TwoSum.cs",
-              "ToolTip": "D:\\Repositories\\DSA\\CSharp\\CodingProblems\\TwoSum.cs",
-              "RelativeToolTip": "CodingProblems\\TwoSum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Title": "PalindromeNumber.cs",
+              "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\CodingProblems\\PalindromeNumber.cs",
+              "RelativeDocumentMoniker": "CodingProblems\\PalindromeNumber.cs",
+              "ToolTip": "D:\\Repositories\\DSA\\CSharp\\CodingProblems\\PalindromeNumber.cs",
+              "RelativeToolTip": "CodingProblems\\PalindromeNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T20:57:03.939Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-05-26T00:22:12.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TestAlgorithms.cs",
-              "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\TestDSA\\TestAlgorithms.cs",
-              "RelativeDocumentMoniker": "TestDSA\\TestAlgorithms.cs",
-              "ToolTip": "D:\\Repositories\\DSA\\CSharp\\TestDSA\\TestAlgorithms.cs",
-              "RelativeToolTip": "TestDSA\\TestAlgorithms.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:45:31.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BinarySearch.cs",
-              "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\BinarySearch.cs",
-              "RelativeDocumentMoniker": "Algorithms\\BinarySearch.cs",
-              "ToolTip": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\BinarySearch.cs",
-              "RelativeToolTip": "Algorithms\\BinarySearch.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:43:39.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "TestCodingProblems.cs",
               "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\TestDSA\\TestCodingProblems.cs",
               "RelativeDocumentMoniker": "TestDSA\\TestCodingProblems.cs",
               "ToolTip": "D:\\Repositories\\DSA\\CSharp\\TestDSA\\TestCodingProblems.cs",
               "RelativeToolTip": "TestDSA\\TestCodingProblems.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T20:58:57.485Z",
               "EditorCaption": ""

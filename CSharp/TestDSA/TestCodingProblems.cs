@@ -5,6 +5,23 @@ namespace TestDSA
     [TestClass]
     public class TestCodingProblems
     {
+
+        [TestMethod]
+        public void TestPalindromeNumber()
+        { 
+/*            var result = new PalindromeNumber().IsPalindrome(10);
+
+            Assert.IsTrue(result);*/
+
+            var result = new PalindromeNumber().IsPalindrome(-110);
+
+            Assert.IsFalse(result);
+
+/*            var result = new PalindromeNumber().IsPalindrome(10);
+
+            Assert.IsFalse(result);*/
+        }
+
         [TestMethod]
         public void TestReverseString()
         {
