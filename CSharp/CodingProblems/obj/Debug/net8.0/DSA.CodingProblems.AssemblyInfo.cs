@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSA.CodingProblems")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5566d8df7066f2e9f2abb060ce50ad4b9c862bd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51f3898a9b644725baa398ed2540fa6ecbbf8ead")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSA.CodingProblems")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSA.CodingProblems")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

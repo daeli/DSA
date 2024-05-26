@@ -5,6 +5,21 @@ namespace TestDSA
     [TestClass]
     public class TestCodingProblems
     {
+        [TestMethod]
+        public void TestLongestCommonPrefix() 
+        {
+            /*            var expected = "fl";
+                        var result = new LongestCommonPrefix().GetPrefix(["flow", "flower", "flight"]);*/
+            /*            var expected = "a";
+                        var result = new LongestCommonPrefix().GetPrefix(["ab", "a"]);*/
+
+            var expected = "flower";
+            var result = new LongestCommonPrefix().GetPrefix(["flower", "flower", "flower", "flower"]);
+
+            Assert.AreEqual(expected, result);
+
+        }
+
 
         [TestMethod]
         public void TestPalindromeNumber()
