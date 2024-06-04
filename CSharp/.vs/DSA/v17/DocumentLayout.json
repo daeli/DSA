@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Repositories\\DSA\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6557D557-7910-4059-B734-E982D592D037}|TestDSA\\TestDSA.csproj|d:\\repositories\\dsa\\csharp\\testdsa\\testcodingproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6557D557-7910-4059-B734-E982D592D037}|TestDSA\\TestDSA.csproj|solutionrelative:testdsa\\testcodingproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6557D557-7910-4059-B734-E982D592D037}|TestDSA\\TestDSA.csproj|d:\\repositories\\dsa\\csharp\\testdsa\\testalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6557D557-7910-4059-B734-E982D592D037}|TestDSA\\TestDSA.csproj|solutionrelative:testdsa\\testalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|d:\\repositories\\dsa\\csharp\\algorithms\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|solutionrelative:algorithms\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F529DA1-315A-4965-8609-D8E18972C002}|CodingProblems\\DSA.CodingProblems.csproj|d:\\repositories\\dsa\\csharp\\codingproblems\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F529DA1-315A-4965-8609-D8E18972C002}|CodingProblems\\DSA.CodingProblems.csproj|solutionrelative:codingproblems\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6557D557-7910-4059-B734-E982D592D037}|TestDSA\\TestDSA.csproj|d:\\repositories\\dsa\\csharp\\testdsa\\testcodingproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6557D557-7910-4059-B734-E982D592D037}|TestDSA\\TestDSA.csproj|solutionrelative:testdsa\\testcodingproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestAlgorithms.cs",
+              "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\TestDSA\\TestAlgorithms.cs",
+              "RelativeDocumentMoniker": "TestDSA\\TestAlgorithms.cs",
+              "ToolTip": "D:\\Repositories\\DSA\\CSharp\\TestDSA\\TestAlgorithms.cs",
+              "RelativeToolTip": "TestDSA\\TestAlgorithms.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:50:48.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\QuickSort.cs",
+              "RelativeDocumentMoniker": "Algorithms\\QuickSort.cs",
+              "ToolTip": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\QuickSort.cs",
+              "RelativeToolTip": "Algorithms\\QuickSort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:55:06.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LongestCommonPrefix.cs",
               "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\CodingProblems\\LongestCommonPrefix.cs",
               "RelativeDocumentMoniker": "CodingProblems\\LongestCommonPrefix.cs",
               "ToolTip": "D:\\Repositories\\DSA\\CSharp\\CodingProblems\\LongestCommonPrefix.cs",
               "RelativeToolTip": "CodingProblems\\LongestCommonPrefix.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T19:55:31.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TestCodingProblems.cs",
               "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\TestDSA\\TestCodingProblems.cs",
               "RelativeDocumentMoniker": "TestDSA\\TestCodingProblems.cs",
               "ToolTip": "D:\\Repositories\\DSA\\CSharp\\TestDSA\\TestCodingProblems.cs",
               "RelativeToolTip": "TestDSA\\TestCodingProblems.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T20:58:57.485Z",
               "EditorCaption": ""
