@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MXqlGx021iEzZbwY1AdWIXobnp+q8sx4b1UkQAsMeHbvXDPiT7eFsdoco4PImXaMnTfZRS2kRGL/7LquDXGOZQ==",
+  "dgSpecHash": "O1FOoi3DGJCIxWsBbAWYnJdcJFQBkRhspvSN/0idnE4HEGX6BUpTo8l2K6tYRipsAQm2OR7qvzrelaYckOUGgw==",
   "success": true,
   "projectFilePath": "D:\\Repositories\\DSA\\CSharp\\TestDSA\\TestDSA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daeli\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\daeli\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\daeli\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\daeli\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\daeli\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
     "C:\\Users\\daeli\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
     "C:\\Users\\daeli\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",

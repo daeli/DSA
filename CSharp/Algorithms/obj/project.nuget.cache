@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "trziBDbGxf3rTS0a+VS6xOdW7LFRaCGf8FSPi+dLSvztHBkQanA/nSNMJOT5GziPdy2rvYB7qS7s+pglHptjLQ==",
+  "dgSpecHash": "twyZWbTqR8oM7J+xRYyI9n0xXHTocbnhuyQ0estM77ZVfAQ8eWN7YHdk+U4Ojjp5Tx7lheMudnXiVmVFpCGgaA==",
   "success": true,
   "projectFilePath": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\DSA.Algorithms.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\daeli\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\daeli\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

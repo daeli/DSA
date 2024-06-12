@@ -1,10 +1,36 @@
 ﻿using DSA.Algorithms;
+using DSA.Algorithms.Helper;
 
 namespace TestDSA
 {
     [TestClass]
     public class TestAlgorithms
     {
+        [TestMethod]
+        public void TestDFS()
+        {
+            var tree = new Node<string>("A",
+                new Node<string>("B", new Node<string>("C", null, null), new Node<string>("D", null, null)),
+                new Node<string>("E", new Node<string>("F", null, null), new Node<string>("G", new Node<string>("H", null, null), null))
+                );
+            new DepthFirstSearch().Search(tree);
+
+            Assert.IsTrue(true);
+        }
+
+        [TestMethod]
+        public void TestBFS()
+        {
+            var expected = "ABECDFGH";
+
+            var tree = new Node<string>("A",
+                new Node<string>("B", new Node<string>("C", null, null), new Node<string>("D", null, null)), 
+                new Node<string>("E", new Node<string>("F", null, null), new Node<string>("G", new Node<string>("H", null, null), null))                
+                );
+            var traversalPath = new BreadthFirstSearch().Search(tree);
+
+            Assert.AreEqual(expected, traversalPath);
+        }
 
         [TestMethod]
         public void TestQuicksort()

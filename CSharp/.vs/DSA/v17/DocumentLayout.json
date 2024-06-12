@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{6557D557-7910-4059-B734-E982D592D037}|TestDSA\\TestDSA.csproj|solutionrelative:testdsa\\testalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|d:\\repositories\\dsa\\csharp\\algorithms\\depthfirstsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|solutionrelative:algorithms\\depthfirstsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|d:\\repositories\\dsa\\csharp\\algorithms\\breadthfirstsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|solutionrelative:algorithms\\breadthfirstsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|d:\\repositories\\dsa\\csharp\\algorithms\\helper\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|solutionrelative:algorithms\\helper\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|d:\\repositories\\dsa\\csharp\\algorithms\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|solutionrelative:algorithms\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|d:\\repositories\\dsa\\csharp\\algorithms\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83BEF92-E8DC-4CFE-829F-D9AD04E65ED0}|Algorithms\\DSA.Algorithms.csproj|solutionrelative:algorithms\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F529DA1-315A-4965-8609-D8E18972C002}|CodingProblems\\DSA.CodingProblems.csproj|d:\\repositories\\dsa\\csharp\\codingproblems\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,8 +42,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\Helper\\Node.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Helper\\Node.cs",
+              "ToolTip": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\Helper\\Node.cs",
+              "RelativeToolTip": "Algorithms\\Helper\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:20:52.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "Algorithms\\BinarySearch.cs",
+              "ToolTip": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\BinarySearch.cs",
+              "RelativeToolTip": "Algorithms\\BinarySearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:18:12.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepthFirstSearch.cs",
+              "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\DepthFirstSearch.cs",
+              "RelativeDocumentMoniker": "Algorithms\\DepthFirstSearch.cs",
+              "ToolTip": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\DepthFirstSearch.cs",
+              "RelativeToolTip": "Algorithms\\DepthFirstSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:16:44.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BreadthFirstSearch.cs",
+              "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\BreadthFirstSearch.cs",
+              "RelativeDocumentMoniker": "Algorithms\\BreadthFirstSearch.cs",
+              "ToolTip": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\BreadthFirstSearch.cs",
+              "RelativeToolTip": "Algorithms\\BreadthFirstSearch.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:31:43.652Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,27 +104,27 @@
               "RelativeDocumentMoniker": "TestDSA\\TestAlgorithms.cs",
               "ToolTip": "D:\\Repositories\\DSA\\CSharp\\TestDSA\\TestAlgorithms.cs",
               "RelativeToolTip": "TestDSA\\TestAlgorithms.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T16:50:48.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "QuickSort.cs",
               "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\QuickSort.cs",
               "RelativeDocumentMoniker": "Algorithms\\QuickSort.cs",
               "ToolTip": "D:\\Repositories\\DSA\\CSharp\\Algorithms\\QuickSort.cs",
               "RelativeToolTip": "Algorithms\\QuickSort.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T15:55:06.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "LongestCommonPrefix.cs",
               "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\CodingProblems\\LongestCommonPrefix.cs",
               "RelativeDocumentMoniker": "CodingProblems\\LongestCommonPrefix.cs",
@@ -69,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "TestCodingProblems.cs",
               "DocumentMoniker": "D:\\Repositories\\DSA\\CSharp\\TestDSA\\TestCodingProblems.cs",
               "RelativeDocumentMoniker": "TestDSA\\TestCodingProblems.cs",
