@@ -61,35 +61,55 @@ namespace TestDSA
         }
 
         [TestMethod]
-        public void TestLongestCommonPrefix()
+        public void TestLongestCommonPrefix_1()
         {
-            /*            var expected = "fl";
-                        var result = new LongestCommonPrefix().GetPrefix(["flow", "flower", "flight"]);*/
-            /*            var expected = "a";
-                        var result = new LongestCommonPrefix().GetPrefix(["ab", "a"]);*/
+            var expected = "fl";
+            var result = new LongestCommonPrefix().GetPrefix(["flow", "flower", "flight"]);
 
+            Assert.AreEqual(expected, result);
+        }
+
+        [TestMethod]
+        public void TestLongestCommonPrefix_2()
+        {
+            var expected = "a";
+            var result = new LongestCommonPrefix().GetPrefix(["ab", "a"]);
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [TestMethod]
+        public void TestLongestCommonPrefix_3()
+        {
             var expected = "flower";
             var result = new LongestCommonPrefix().GetPrefix(["flower", "flower", "flower", "flower"]);
 
             Assert.AreEqual(expected, result);
-
         }
 
 
         [TestMethod]
-        public void TestPalindromeNumber()
+        public void TestPalindromeNumber_1()
         {
-            /*            var result = new PalindromeNumber().IsPalindrome(10);
+            var result = new PalindromeNumber().IsPalindrome(10);
 
-                        Assert.IsTrue(result);*/
+            Assert.IsTrue(result);
+        }
 
+        [TestMethod]
+        public void TestPalindromeNumber_2()
+        {
             var result = new PalindromeNumber().IsPalindrome(-110);
 
             Assert.IsFalse(result);
+        }
 
-            /*            var result = new PalindromeNumber().IsPalindrome(10);
+        [TestMethod]
+        public void TestPalindromeNumber_3()
+        {
+            var result = new PalindromeNumber().IsPalindrome(10);
 
-                        Assert.IsFalse(result);*/
+            Assert.IsFalse(result);
         }
 
         [TestMethod]
