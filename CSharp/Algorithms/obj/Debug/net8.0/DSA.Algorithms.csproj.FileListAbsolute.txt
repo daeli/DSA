@@ -10,3 +10,4 @@ D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\DSA.Algorithms.dll
 D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\refint\DSA.Algorithms.dll
 D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\DSA.Algorithms.pdb
 D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\ref\DSA.Algorithms.dll
+D:\Repositories\DSA\CSharp\Algorithms\obj\Debug\net8.0\DSA.Algorithms.csproj.AssemblyReference.cache

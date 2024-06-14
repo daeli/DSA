@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSA.Algorithms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a25ba499efc389138fd923990b696007db49228")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7c76609add76cf30f45e4305799c2501af8cba1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSA.Algorithms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSA.Algorithms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
