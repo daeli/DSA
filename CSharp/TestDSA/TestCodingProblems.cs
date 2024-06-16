@@ -2,12 +2,20 @@ using DSA.CodingProblems;
 
 namespace TestDSA
 {
-
-
-
     [TestClass]
     public class TestCodingProblems
     {
+
+        [TestMethod]
+        public void TestClimbingStairs()
+        {            
+            var result = new ClimbingStairs().ClimbStairs(5);
+            var expected = 8;
+
+            Assert.AreEqual(expected, result);
+
+        }
+
         [TestMethod]
         public void TestWordLadder_1()
         {
@@ -86,7 +94,6 @@ namespace TestDSA
 
             Assert.AreEqual(expected, result);
         }
-
 
         [TestMethod]
         public void TestPalindromeNumber_1()
