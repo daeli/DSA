@@ -5,6 +5,44 @@ namespace TestDSA
     [TestClass]
     public class TestCodingProblems
     {
+        [TestMethod]
+        public void TestMaxProfit()
+        {
+            var result = new MaxProfit().FindMaxProfit([7, 1, 5, 3, 6, 4]);
+            var expected = 5;
+
+            Assert.AreEqual(expected, result);
+
+        }
+
+        [TestMethod]
+        public void TestMaxProfit_2()
+        {
+            var result = new MaxProfit().FindMaxProfit([7, 6, 4, 3, 1]);
+            var expected = 0;
+
+            Assert.AreEqual(expected, result);            
+         }
+
+        [TestMethod]
+        public void TestCoinChange_Tabulation()
+        {
+            var result = new CoinChange().ChangeCoin_Tabulation([1, 2, 5], 11);
+            var expected = 3;
+
+            Assert.AreEqual(expected, result);
+
+        }
+
+        [TestMethod]
+        public void TestCoinChange()
+        {
+            var result = new CoinChange().ChangeCoin([1, 2, 5], 11);
+            var expected = 3;
+
+            Assert.AreEqual(expected, result);
+
+        }
 
         [TestMethod]
         public void TestClimbingStairs()
